@@ -1,16 +1,16 @@
-## Hi there 👋
+SSY的个人博客
 
-<!--
-**syoungshu030501/syoungshu030501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+本科（2021-2025）就读于电子科技大学通信工程专业
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+2024.12.21考研
+
+
+
+目前知识储备包括基础的C语言和信号处理相关知识，希望更多地学习一些计算机相关技术！
+
+
+
+我将会在这里分享我日常学习的一些心得和笔记以及一些想法。
+
